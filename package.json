@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "prebuild": "node -e \"for (const d of ['assets','proyectos']) require('fs').rmSync(d,{recursive:true,force:true})\"",
     "build": "vite build",
     "preview": "vite preview"
   },

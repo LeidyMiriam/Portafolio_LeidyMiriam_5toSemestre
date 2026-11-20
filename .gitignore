@@ -1,7 +1,7 @@
 # Dependencias (se reinstalan con npm install)
 node_modules/
 
-# Build (GitHub Actions lo genera al desplegar)
+# Build viejo (ya no se usa: el build va a la raíz)
 dist/
 
 # Credenciales y variables de entorno
