@@ -48,7 +48,6 @@ export const proyectos = [
     fecha: 'Infomatriz Campeche 2026',
     descripcion: [
       'Mi proyecto para Infomatriz Campeche 2026: un software que modela en 3D el crecimiento del cáncer en órganos (pulmón, mama y próstata) a partir de ecuaciones diferenciales.',
-      'Equipo: Leidy Miriam Morayta Pérez, Angela Alicia Pimienta Díaz, Víctor Adrián Romero Minaya y Diego Valadez Almeyda.',
     ],
     tecnologias: ['3D', 'Ecuaciones diferenciales', 'Web'],
     imagen: '/proyectos/oncolab/oncolab.png',
