@@ -1,0 +1,19 @@
+# Dependencias (se reinstalan con npm install)
+node_modules/
+
+# Build (GitHub Actions lo genera al desplegar)
+dist/
+
+# Credenciales y variables de entorno
+.env
+.env.*
+
+# Logs
+*.log
+
+# Sistema y editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.claude/settings.local.json
